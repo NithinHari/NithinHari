@@ -6,10 +6,10 @@
 - ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
 
 ## 📬 Find me at
-[<img align="left" alt="instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="hackerearth" width="100px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />][hackerearth]
-[<img align="left" alt="github" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="instagram" width="100px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" />][instagram]
+[<img align="left" alt="linkedin" width="100px" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-linkedin-circular-512.png" />][linkedin]
+[<img align="left" alt="hackerearth" width="100px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png" />][hackerearth]
+[<img align="left" alt="github" width="100px" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" />][github]
 <br />
 
 ## Languages and Tools:
