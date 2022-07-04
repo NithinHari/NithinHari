@@ -6,10 +6,10 @@
 - ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
 
 ## 📬 Find me at
-[<img align="left" alt="instagram" width="100px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" />][instagram]
-[<img align="left" alt="linkedin" width="100px" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-linkedin-circular-512.png" />][linkedin]
-[<img align="left" alt="hackerearth" width="100px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png" />][hackerearth]
-[<img align="left" alt="github" width="100px" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" />][github]
+[<img align="left" alt="instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" />][instagram]
+[<img align="left" alt="linkedin" width="22x" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-linkedin-circular-512.png" />][linkedin]
+[<img align="left" alt="hackerearth" width="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png" />][hackerearth]
+[<img align="left" alt="github" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" />][github]
 <br />
 
 ## Languages and Tools:
