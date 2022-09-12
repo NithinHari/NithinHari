@@ -24,7 +24,7 @@
 [<img align="left" alt="tableau" width="40px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-128.png" style="padding-right:10px;" />][tableau]
 [<img align="left" alt="git" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" style="padding-right:10px;" />][git]
 [<img align="left" alt="github" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-128.png" style="padding-right:10px;" />][github]
-[<img align="left" alt="ansible" width="40px" src="https://symbols.getvecta.com/stencil_73/122_ansible-icon.c76e065140.svg" style="padding-right:10px;" />][ansible]
+[<img align="left" alt="ansible" width="40px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible.png" style="padding-right:10px;" />][ansible]
 [<img align="left" alt="vscode" width="40px" src="https://code.visualstudio.com/assets/images/code-stable.png" style="padding-right:10px;" />][vscode]
 
 
