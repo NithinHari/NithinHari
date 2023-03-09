@@ -1,7 +1,7 @@
 ### Hi, I'm Nithin H, a Developer 🚀 from India.
 - 👨🏽‍💻 Associate Professional at [DXC Technology][dxc];
 - 🌱 I’m currently learning Full stack Development and Microservices;
-- 🙇 2022 Goals: Learn more Technogies on Full Stack;
+- 🙇 2023 Goals: Learn more Technogies on Full Stack;
 - 📙 Check out my [Resume][Resume];
 - ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
 
