@@ -31,7 +31,7 @@
 
 
 [dxc]: https://dxc.com/in/en
-[Resume]: https://drive.google.com/file/d/1z7pVqtPeT-fI17Oh0p-cTNt42jM3KqP3/view?usp=drive_link
+[Resume]: https://drive.google.com/drive/folders/1uv5jo1Dijnqjoj3p08PjWgxEb8YPvSn-
 [instagram]: https://www.instagram.com/thekarthikeyaa/
 [linkedin]: https://www.linkedin.com/in/nithin-h-7181a1132/
 [hackerearth]: https://www.hackerearth.com/@krishnanithin1998
