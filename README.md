@@ -2,7 +2,6 @@
 - 👨🏽‍💻 Associate Professional at [DXC Technology][dxc];
 - 🌱 I’m currently working on Full stack Development and Microservices;
 - 🙇 2024 Goals: Learn more Technogies on Full Stack;
-- 📙 Check out my [Resume][Resume];
 - ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
 
 ### 📬 Find me at:
