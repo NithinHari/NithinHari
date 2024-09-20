@@ -2,7 +2,6 @@
 - 👨🏽‍💻 Application Developer at [Accenture][accenture];
 - 🌱 I’m currently working on Full stack Development and Microservices;
 - 🙇 2024 Goals: Learn more Technogies on Full Stack;
-- ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
 
 ### 📬 Find me at:
 [<img align="left" alt="instagram" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-128.png" style="padding-right:10px;" />][instagram]
