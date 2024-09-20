@@ -1,5 +1,5 @@
 ### Hi, I'm Nithin H, a Developer 🚀 from India.
-- 👨🏽‍💻 Associate Professional at [Accenture][accenture];
+- 👨🏽‍💻 Application Developer at [Accenture][accenture];
 - 🌱 I’m currently working on Full stack Development and Microservices;
 - 🙇 2024 Goals: Learn more Technogies on Full Stack;
 - ⚡️ Fun-Fact: I'm an Atheist and still read Bhagawad Gita;
