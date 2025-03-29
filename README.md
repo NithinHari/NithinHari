@@ -1,7 +1,7 @@
 ### Hi, I'm Nithin H, a Developer 🚀 from India.
 - 👨🏽‍💻 Application Developer at [Accenture][accenture];
 - 🌱 I’m currently working on Full stack Development and Microservices;
-- 🙇 2024 Goals: Learn more Technogies on Full Stack;
+- 🙇 2025 Goals: Learn more Technogies on Full Stack;
 
 ### 📬 Find me at:
 [<img align="left" alt="instagram" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-128.png" style="padding-right:10px;" />][instagram]
@@ -26,7 +26,7 @@
 
 
 [accenture]: https://www.accenture.com/in-en
-[Resume]: https://drive.google.com/file/d/1QNWaOfO1HWmQQpKNPM9vyLT-xYcW-KvA/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1o83P8aCJufL_r21orDGrLQg-gMktbGuh/view?usp=sharing
 [instagram]: https://www.instagram.com/thekarthikeyaa/
 [linkedin]: https://www.linkedin.com/in/nithin-h-7181a1132/
 [hackerearth]: https://www.hackerearth.com/@krishnanithin1998
